@@ -1,0 +1,3 @@
+tpmutil_libtpms.lo: tpmutil_libtpms.c /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
